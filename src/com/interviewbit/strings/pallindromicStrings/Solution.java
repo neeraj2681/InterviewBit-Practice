@@ -1,4 +1,4 @@
-package com.interviewbit.strings.PallindromicStrings;
+package com.interviewbit.strings.pallindromicStrings;
 
 public class Solution {
     boolean isValid(String A, int index) {
