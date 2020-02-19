@@ -3,7 +3,15 @@ package com.interviewbit.arrays.maxContiguousSubArray;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @author neeraj2681
+ */
 public class Solution {
+    /**
+     *
+     * @param A the list of integers
+     * @return the maximum possible sum of the contiguous array
+     */
     public int maxSubArray(final List<Integer> A) {
         boolean isNeg = true;
         for (Integer integer : A) {

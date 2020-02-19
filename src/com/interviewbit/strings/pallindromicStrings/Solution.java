@@ -1,6 +1,15 @@
 package com.interviewbit.strings.pallindromicStrings;
 
+/**
+ * @author neeraj2681
+ */
 public class Solution {
+    /**
+     *
+     * @param A the input string
+     * @param index particular index of the input string
+     * @return true when the character at index is alphanumeric
+     */
     boolean isValid(String A, int index) {
         if((A.charAt(index) >= 'A' && A.charAt(index) <= 'Z') ||
                 (A.charAt(index) >= 'a' && A.charAt(index) <= 'z') ||
@@ -8,6 +17,12 @@ public class Solution {
             return true;
         return false;
     }
+
+    /**
+     *
+     * @param A input string to check
+     * @return 1, if string is palindrome else 0
+     */
     public int isPalindrome(String A) {
         int start = 0, end = A.length() - 1;
         char s = ' ', e = ' ';

@@ -5,7 +5,7 @@ Find the contiguous subarray within an array, A of length N which has the larges
 <code>The first and the only argument contains an integer array, A.</code><br><br>
 <b>Output Format:</b>
 
-Return an integer representing the maximum possible sum of the contiguous subarray.
+Return an integer representing the maximum possible sum of the contiguous sub array.
 <br><br><b>Constraints:</b>
 
 <code>1 <= N <= 1e6

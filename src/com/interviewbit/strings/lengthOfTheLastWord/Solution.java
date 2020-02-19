@@ -1,6 +1,14 @@
 package com.interviewbit.strings.lengthOfTheLastWord;
 
+/**
+ * @author neeraj2681
+ */
 public class Solution {
+    /**
+     *
+     * @param A: the input string
+     * @return the length of the last word present, if present in the string
+     */
     public int lengthOfLastWord(final String A) {
         int length = 0;
         int ans = 0;
@@ -15,7 +23,6 @@ public class Solution {
         }
         if(length != 0)
             return length;
-
         return ans;
     }
 }
