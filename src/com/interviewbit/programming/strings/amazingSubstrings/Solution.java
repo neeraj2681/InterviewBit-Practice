@@ -1,4 +1,4 @@
-package com.interviewbit.strings.amazingSubstrings;
+package com.interviewbit.programming.strings.amazingSubstrings;
 
 /**
  * @author neeraj2681

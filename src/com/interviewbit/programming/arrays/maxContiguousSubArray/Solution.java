@@ -1,4 +1,4 @@
-package com.interviewbit.arrays.maxContiguousSubArray;
+package com.interviewbit.programming.arrays.maxContiguousSubArray;
 
 import java.util.Collections;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.interviewbit.strings.lengthOfTheLastWord;
+package com.interviewbit.programming.strings.lengthOfTheLastWord;
 
 /**
  * @author neeraj2681

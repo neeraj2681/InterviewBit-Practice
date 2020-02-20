@@ -1,4 +1,4 @@
-package com.interviewbit.strings.pallindromicStrings;
+package com.interviewbit.programming.strings.pallindromicStrings;
 
 /**
  * @author neeraj2681
