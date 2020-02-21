@@ -9,9 +9,9 @@ The questions are divided into 5 segments
 5. System Design<br><br>
 
 <b>Programming: </b>contain sub-packages for different kind of problems, like arrays, dynamic programming, greedy algorithms, strings etc.<br><br>
-Each category has a separate packages for each problem, with 2 files <br>
-1. Problem: defines the problem statement
-2. Solution: contains the solution to the problem<br><br>
+Each category has a separate package for each problem, with 2 files <br>
+1. Problem: defines the problem statement along with the link to the original webpage
+2. Solution: contains the solution of problem<br><br>
 
 <b>Puzzles: </b>This package contains a sub-package for each puzzle.<br><br>
 More topics will be added later.<br><br>
