@@ -1,0 +1,8 @@
+#files to ignore
+
+#directories to ignore
+.idea/
+
+#patterns to ignore
+*.class
+*.iml
