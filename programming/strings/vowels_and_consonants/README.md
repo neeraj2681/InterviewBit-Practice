@@ -1,0 +1,1 @@
+Problem link: <a href = "https://www.interviewbit.com/problems/vowel-and-consonant-substrings/">Vowels and Consonants</a>
