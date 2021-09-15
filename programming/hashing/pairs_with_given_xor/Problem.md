@@ -1,0 +1,1 @@
+Problem link: <a href = "https://www.interviewbit.com/old/problems/pairs-with-given-xor/">Pairs with given XOR</a>

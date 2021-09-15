@@ -1,0 +1,1 @@
+Problem link: <a href = "https://www.interviewbit.com/old/problems/first-repeating-element/">First Repeating element</a>
