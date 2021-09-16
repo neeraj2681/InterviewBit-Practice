@@ -3,8 +3,8 @@ This README will be updated once the structure of each package is known clearly.
 This repository contains various practice questions available at <a href="https://www.interviewbit.com/practice/"><b>Interviewbit.com</b></a><br>
 The questions are divided into 5 segments
 1. Databases
-2. Programming: 
-3. Puzzles
+2. <a href = "https://github.com/neeraj2681/InterviewBit-Practice/tree/master/programming">Programming </a>
+3. <a href = "https://github.com/neeraj2681/InterviewBit-Practice/tree/master/puzzles">Puzzles </a>
 4. Scripting
 5. System Design<br><br>
 
