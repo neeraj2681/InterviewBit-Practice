@@ -1,0 +1,1 @@
+Problem link: <a href = "https://www.interviewbit.com/old/problems/magician-and-chocolates/">Magician and Chocolates</a>
