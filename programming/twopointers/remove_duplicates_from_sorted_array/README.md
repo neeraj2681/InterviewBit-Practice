@@ -1,0 +1,1 @@
+Problem link: <a href = "https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/">Remove duplicates from sorted array</a>
