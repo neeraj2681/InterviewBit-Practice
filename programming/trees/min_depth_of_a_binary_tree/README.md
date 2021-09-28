@@ -1,0 +1,1 @@
+Problem link: <a href = "https://www.interviewbit.com/old/problems/min-depth-of-binary-tree/">Min Depth of a binary tree</a>
